@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.grid-btn{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+button {
+  text-align: center;
+  background-color: aquamarine;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+
+}
+
+video {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+
+}
+body{
+  background-color: #282c34;
+}
